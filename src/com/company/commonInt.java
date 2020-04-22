@@ -18,5 +18,5 @@ public class commonInt {
         else
             return "NO";
     }
-
+  System.out.print("GOOD JOB");
 }
