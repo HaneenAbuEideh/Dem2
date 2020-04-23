@@ -27,7 +27,7 @@ public class Main {
                     lastp--;}
 
         }
-        System.out.print("The count ="+ cnt);
+        System.out.print("The count="+ cnt);
 
     }
 
